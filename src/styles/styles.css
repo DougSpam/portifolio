@@ -114,7 +114,16 @@ body {
     color: #000;
 }
 
+.rodape-numero {
+    text-decoration: none;
+    color: #000;
+}
+
 .rodape-email:hover{
+    color: #e7e700;
+}
+
+.rodape-numero:hover{
     color: #e7e700;
 }
 
@@ -129,10 +138,10 @@ body {
     color: #e7e700;
 }
 
-.links-sites {
+ .links-sites {
     text-decoration: none;
-    color: #F6F6F6;
-}
+    color: #f6f6f6; 
+} 
 
 li {
     font-size: 24px;
