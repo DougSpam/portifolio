@@ -67,7 +67,7 @@ body {
     height: 32px;
 }
 
-botoes-links__texto {
+.titulo__redes {
     font-family: "Krona one ", sans-serif;
     font-weight: 400;
     font-size: 24px;
@@ -117,3 +117,30 @@ botoes-links__texto {
 .rodape-email:hover{
     color: #e7e700;
 }
+
+.meu-nome {
+    font-family: "Krona one", sans-serif;
+    color: #f6f6f6;
+}
+
+.sub-titulo__sobremim {
+    font-size: 19px;
+    font-family: "Krona one", sans-serif;
+    color: #e7e700;
+}
+
+.links-sites {
+    text-decoration: none;
+    color: #F6F6F6;
+}
+
+li {
+    font-size: 24px;
+    font-family: "Montserrat", sans-serif;;
+}
+
+li:hover {
+    color: #e7e700;
+}
+
+
