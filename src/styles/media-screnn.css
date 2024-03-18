@@ -1,0 +1,5 @@
+@media (max-width: 1200px) {
+    .conteudo-principal {
+        flex-direction: column-reverse;
+    }
+}
