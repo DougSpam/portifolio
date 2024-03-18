@@ -5,6 +5,7 @@
     }
 
     .cabecalho__menu {
+        width: 100%;
         justify-content: space-around;
     }
 
