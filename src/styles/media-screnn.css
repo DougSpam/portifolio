@@ -1,5 +1,27 @@
 @media (max-width: 1200px) {
 
+    body {
+        background-color: #000000;
+        height: 100%;
+        background-image: linear-gradient(to bottom right, #515151 0%, #ccc5e2 40%, #515151 60%, #fff 100%);
+        background-size: 200%, 200%;
+        animation: float 6s linear infinite alternate;
+    }
+    
+    @keyframes float {
+        from{background-position: 0 0 ;}
+        to{background-position: 100% 100%;}
+    }
+    
+    ::-webkit-scrollbar {
+        width: 10px;
+      }
+      
+      ::-webkit-scrollbar-thumb {
+        background-color: #b700ff; 
+        border-radius: 50px;
+      }
+
     .cabecalho {
         padding: 10%;
     }

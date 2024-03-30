@@ -6,7 +6,7 @@
 body {
     background-color: #000000;
     height: 100%;
-    background-image: linear-gradient(to bottom right, #515151 0%, #ccc5e2 40%, #515151 60%, #ffffff 100%);
+    background-image: linear-gradient(to bottom right, #000 0%, #ccc5e2 40%, #000 60%, #ffffff 100%);
     background-size: 200%, 200%;
     animation: float 6s linear infinite alternate;
 }
@@ -85,6 +85,7 @@ body {
 }
 
 .titulo__redes {
+    color: #fff;
     font-family: "Krona one ", sans-serif;
     font-weight: 400;
     font-size: 1.5rem;
