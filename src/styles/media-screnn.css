@@ -17,4 +17,8 @@
     .conteudo-principal__conteudo {
         width: auto;
     }
+
+    .img-conteudo {
+        width: 75%;
+    }
 }
