@@ -16,14 +16,6 @@ body {
     to{background-position: 100% 100%;}
 }
 
-::-webkit-scrollbar {
-    width: 10px;
-  }
-  
-  ::-webkit-scrollbar-thumb {
-    background-color: #b700ff; 
-    border-radius: 50px;
-  }
 
 .cabecalho {
     padding: 2% 0% 0% 19%;
